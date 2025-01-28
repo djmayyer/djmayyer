@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @djmayyer | Horia
-- 🐝 WABZ Owner
-- 👀 I’m interested in Computer Science and Finance
-- 🌱 I’m currently exploring the world
+- 🐝 WABZ 
+- 👀 I’m graduated in Computer Science and I am interested in Finance
+- 🌱 I’m exploring the world
 - 📫 horia.zamfir@gmail.com
 
 <!---
