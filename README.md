@@ -3,6 +3,10 @@
 - 👀 I’m graduated in Computer Science and I am interested in Finance
 - 🌱 I’m exploring the world
 - 📫 horia.zamfir@gmail.com
+  
+---
+[![](https://visitcount.itsvg.in/api?id=djmayyer&icon=4&color=0)](https://visitcount.itsvg.in)
+---
 
 ![snake gif](https://github.com/djmayyer/djmayyer/blob/output/github-snake-dark.svg)
 
@@ -20,8 +24,6 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
----
-[![](https://visitcount.itsvg.in/api?id=djmayyer&icon=4&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
